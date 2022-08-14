@@ -4,7 +4,7 @@ I'm a Developer, mostly working with Web.
 
 I use daily: 😄
 
-reactjs, vuejs, javascript, typescript, php, html, css, photoshop
+reactjs, vuejs, javascript, typescript, php, html, css
 
 Some things I enjoy:
 
