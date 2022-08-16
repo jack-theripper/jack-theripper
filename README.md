@@ -29,5 +29,6 @@ My first line of code was `console.log("2" + "2")` (4 ? no, equal to "22")
 
 [![LeetCode user jack-theripper](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjack-theripper&logo=leetcode&logoColor=yellow)](https://leetcode.com/jack-theripper/) [![Codewars user jack-theripper](https://www.codewars.com/users/jack-theripper/badges/micro)](https://www.codewars.com/users/jack-theripper/)
 
+Telegram for contact: [@dmitry_arhitector](https://t.me/dmitry_arhitector)
 
 <img align="right" src="https://github.com/jack-theripper/jack-theripper/raw/main/assets/thumbs-up.png" width="200" alt="thumbs-up" />
